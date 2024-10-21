@@ -1,0 +1,17 @@
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\bin\Debug\net8.0\Ecommerce.Utilities.deps.json
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\bin\Debug\net8.0\Ecommerce.Utilities.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\bin\Debug\net8.0\Ecommerce.Utilities.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerce.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerce.Utilities.AssemblyInfoInputs.cache
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerce.Utilities.AssemblyInfo.cs
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerce.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerce.Utilities.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\refint\Ecommerce.Utilities.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerce.Utilities.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\ref\Ecommerce.Utilities.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\bin\Debug\net8.0\Ecommerce.DTO.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\bin\Debug\net8.0\Ecommerce.Model.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\bin\Debug\net8.0\Ecommerce.DTO.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\bin\Debug\net8.0\Ecommerce.Model.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerce.Utilities.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Utilities\obj\Debug\net8.0\Ecommerc.ABC1F258.Up2Date

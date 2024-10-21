@@ -1,0 +1,15 @@
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Repository.deps.json
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Repository.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Repository.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.AssemblyInfoInputs.cache
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.AssemblyInfo.cs
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\refint\Ecommerce.Repository.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\ref\Ecommerce.Repository.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Model.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\bin\Debug\net8.0\Ecommerce.Model.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerce.Repository.csproj.AssemblyReference.cache
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Repository\obj\Debug\net8.0\Ecommerc.FFB2CA63.Up2Date
