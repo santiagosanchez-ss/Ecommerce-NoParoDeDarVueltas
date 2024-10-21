@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{1EE3CBC8-D308-4FD0-8EE9-DD1BAD633271}|Ecommerce.API\\Ecommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66CEE768-EA6F-429B-A6F5-82C1341A06E3}|Ecommerce.Repository\\Ecommerce.Repository.csproj|c:\\users\\santiago\\source\\repos\\ecommerce\\ecommerce.repository\\implementation\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66CEE768-EA6F-429B-A6F5-82C1341A06E3}|Ecommerce.Repository\\Ecommerce.Repository.csproj|solutionrelative:ecommerce.repository\\implementation\\ventarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7975F81-89C3-4C44-8671-C0D7967F6241}|Ecommerce.DTO\\Ecommerce.DTO.csproj|c:\\users\\santiago\\source\\repos\\ecommerce\\ecommerce.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7975F81-89C3-4C44-8671-C0D7967F6241}|Ecommerce.DTO\\Ecommerce.DTO.csproj|solutionrelative:ecommerce.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66CEE768-EA6F-429B-A6F5-82C1341A06E3}|Ecommerce.Repository\\Ecommerce.Repository.csproj|c:\\users\\santiago\\source\\repos\\ecommerce\\ecommerce.repository\\implementation\\genericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66CEE768-EA6F-429B-A6F5-82C1341A06E3}|Ecommerce.Repository\\Ecommerce.Repository.csproj|solutionrelative:ecommerce.repository\\implementation\\genericorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EEE4EEF-0169-4BCD-9AFE-95E7AF9D7B06}|Ecommerce.Utilities\\Ecommerce.Utilities.csproj|c:\\users\\santiago\\source\\repos\\ecommerce\\ecommerce.utilities\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EEE4EEF-0169-4BCD-9AFE-95E7AF9D7B06}|Ecommerce.Utilities\\Ecommerce.Utilities.csproj|solutionrelative:ecommerce.utilities\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7975F81-89C3-4C44-8671-C0D7967F6241}|Ecommerce.DTO\\Ecommerce.DTO.csproj|c:\\users\\santiago\\source\\repos\\ecommerce\\ecommerce.dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7975F81-89C3-4C44-8671-C0D7967F6241}|Ecommerce.DTO\\Ecommerce.DTO.csproj|solutionrelative:ecommerce.dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,35 +48,48 @@
               "RelativeDocumentMoniker": "Ecommerce.API\\Program.cs",
               "ToolTip": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.API\\Program.cs",
               "RelativeToolTip": "Ecommerce.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABCAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:08:57.586Z",
+              "WhenOpened": "2024-10-21T19:33:42.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VentaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.Repository\\Implementation\\VentaRepositorio.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Repository\\Implementation\\VentaRepositorio.cs",
-              "ToolTip": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.Repository\\Implementation\\VentaRepositorio.cs",
-              "RelativeToolTip": "Ecommerce.Repository\\Implementation\\VentaRepositorio.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwC0AAAAhAAAA",
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.DTO\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DTO\\VentaDTO.cs",
+              "ToolTip": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.DTO\\VentaDTO.cs",
+              "RelativeToolTip": "Ecommerce.DTO\\VentaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T01:57:00.089Z",
+              "WhenOpened": "2024-10-21T19:33:27.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.DTO\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DTO\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.DTO\\CategoriaDTO.cs",
+              "RelativeToolTip": "Ecommerce.DTO\\CategoriaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:27:01.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GenericoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.Repository\\Implementation\\GenericoRepositorio.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Repository\\Implementation\\GenericoRepositorio.cs",
-              "ToolTip": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.Repository\\Implementation\\GenericoRepositorio.cs",
-              "RelativeToolTip": "Ecommerce.Repository\\Implementation\\GenericoRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.Utilities\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Utilities\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\santiago\\source\\repos\\Ecommerce\\Ecommerce.Utilities\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Ecommerce.Utilities\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T01:33:55.175Z",
+              "WhenOpened": "2024-10-21T19:23:02.519Z",
               "EditorCaption": ""
             }
           ]

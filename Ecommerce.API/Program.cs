@@ -4,6 +4,9 @@ using Microsoft.EntityFrameworkCore;
 using Ecommerce.Repository.Contract;
 using Ecommerce.Repository.Implementation;
 
+using Ecommerce.Utilities;
+using Microsoft.Extensions.DependencyInjection;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +25,7 @@ builder.Services.AddDbContext<NoParoDeDarVueltasDbContext>(options =>
 
 builder.Services.AddTransient(typeof(IGenericoRepositorio<>),typeof(IGenericoRepositorio<>));
 builder.Services.AddScoped<IVentaRepositorio, VentaRepositorio>();
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 var app = builder.Build();
 
