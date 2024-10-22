@@ -9,7 +9,7 @@ using Ecommerce.Repository.DBContext;
 
 namespace Ecommerce.Repository.Implementation
 {
-    public class GenericoRepositorio <T> : IGenericoRepositorio<T> where T : class
+    public class GenericoRepositorio <T> : IGenericoRepositorio <T> where T : class
     {
         private readonly NoParoDeDarVueltasDbContext _dbContext;
         public GenericoRepositorio(NoParoDeDarVueltasDbContext dbContext)

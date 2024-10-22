@@ -84,3 +84,6 @@ C:\Users\santiago\source\repos\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Ecommerc
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Ecommerce.Model.pdb
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Ecommerce.Repository.pdb
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.API\bin\Debug\net8.0\Ecommerce.Utilities.pdb
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.API\obj\Debug\net8.0\Ecommerce.API.sourcelink.json
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

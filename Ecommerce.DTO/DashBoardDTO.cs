@@ -8,7 +8,7 @@ namespace Ecommerce.DTO
 {
     public class DashBoardDTO
     {
-        public string? Ingresos {  get; set; }
+        public string? TotalIngresos {  get; set; }
         public int TotalVentas { get; set; }
         public int TotalClientes{ get; set; }
         public int TotalProductos { get; set; }

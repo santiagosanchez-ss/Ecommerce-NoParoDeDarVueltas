@@ -19,3 +19,4 @@ C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecom
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Service\bin\Debug\net8.0\Ecommerce.Utilities.pdb
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.csproj.AssemblyReference.cache
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerc.B292E58B.Up2Date
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Service\obj\Debug\net8.0\Ecommerce.Service.sourcelink.json

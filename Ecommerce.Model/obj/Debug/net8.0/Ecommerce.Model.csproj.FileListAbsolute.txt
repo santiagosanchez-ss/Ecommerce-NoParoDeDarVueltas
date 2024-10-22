@@ -12,3 +12,4 @@ C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\ref\Ec
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Model\bin\Debug\net8.0\Ecommerce.Model.runtimeconfig.json
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.csproj.AssemblyReference.cache
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.genruntimeconfig.cache
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.Model\obj\Debug\net8.0\Ecommerce.Model.sourcelink.json

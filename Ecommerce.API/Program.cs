@@ -7,6 +7,10 @@ using Ecommerce.Repository.Implementation;
 using Ecommerce.Utilities;
 using Microsoft.Extensions.DependencyInjection;
 
+using Ecommerce.Service.Contract;
+using Ecommerce.Service.Implementation;
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,10 +26,18 @@ builder.Services.AddDbContext<NoParoDeDarVueltasDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("CadenaSql"));
 });
-
-builder.Services.AddTransient(typeof(IGenericoRepositorio<>),typeof(IGenericoRepositorio<>));
+//
+builder.Services.AddScoped(typeof(IGenericoRepositorio<>), typeof(GenericoRepositorio<>));
+//
 builder.Services.AddScoped<IVentaRepositorio, VentaRepositorio>();
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+
+builder.Services.AddScoped<IUsuarioServicio, UsuarioServicio>();
+builder.Services.AddScoped<ICategoriaServicio, CategoriaServicio>();
+builder.Services.AddScoped<IProductoServicio, ProductoServicio>();
+builder.Services.AddScoped<IVentaServicio, VentaServicio>();
+builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
+
 
 var app = builder.Build();
 

@@ -9,3 +9,4 @@ C:\Users\santiago\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerc
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\refint\Ecommerce.DTO.dll
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.pdb
 C:\Users\santiago\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\ref\Ecommerce.DTO.dll
+C:\Users\santiago\source\repos\Ecommerce\Ecommerce.DTO\obj\Debug\net8.0\Ecommerce.DTO.sourcelink.json
