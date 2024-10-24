@@ -39,6 +39,17 @@ builder.Services.AddScoped<IVentaServicio, VentaServicio>();
 builder.Services.AddScoped<IDashboardServicio, DashboardServicio>();
 
 
+//COFIGURACION PARA PODER USAR LA API EN CUALQUIER DOMINIO 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("NuevaPolitica", app =>
+    {
+        app.AllowAnyOrigin()
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -47,6 +58,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("NuevaPolitica");
 
 app.UseAuthorization();
 
