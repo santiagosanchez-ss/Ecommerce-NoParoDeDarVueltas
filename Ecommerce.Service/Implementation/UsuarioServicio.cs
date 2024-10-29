@@ -13,7 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Reflection.Metadata.Ecma335;
 using System.Runtime.Intrinsics.X86;
 
-namespace Ecommerce.Service.Implementation
+namespace Ecommerce.WebAssembly.Service.Implementation
 {
     public class UsuarioServicio: IUsuarioServicio
     {

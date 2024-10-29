@@ -13,8 +13,8 @@ using Microsoft.EntityFrameworkCore;
 using System.Reflection.Metadata.Ecma335;
 using System.Runtime.Intrinsics.X86;
 using Ecommerce.Repository.Implementation;
-namespace Ecommerce.Service.Implementation
-{
+namespace Ecommerce.WebAssembly.Service.Implementation 
+{ 
     public class DashboardServicio : IDashboardServicio
     {
         private readonly IVentaRepositorio _ventaRepositorio;

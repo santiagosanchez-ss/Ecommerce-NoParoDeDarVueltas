@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 using Ecommerce.Service.Contract;
 using Ecommerce.Service.Implementation;
+using Ecommerce.WebAssembly.Service.Implementation;
 
 
 
